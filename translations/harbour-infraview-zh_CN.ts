@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="sv">
+<TS version="2.1">
 <context>
     <name>About</name>
     <message>
         <location filename="../qml/pages/About.qml" line="21"/>
         <source>About</source>
-        <translation>Om</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="24"/>
         <source>Info</source>
-        <translation>Information</translation>
+        <translation>信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="44"/>
         <source>Version</source>
-        <translation>Version</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="49"/>
         <source>Device network information</source>
-        <translation>Enhetens nätverksinformation</translation>
+        <translation>设备网络信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="58"/>
         <source>Author</source>
-        <translation>Utvecklare</translation>
+        <translation>作者</translation>
     </message>
     <message>
         <location filename="../qml/pages/About.qml" line="76"/>
         <source>Using </source>
-        <translation>Med hjälp av </translation>
+        <translation>使用中</translation>
     </message>
 </context>
 <context>
@@ -39,47 +39,47 @@
     <message>
         <location filename="../qml/pages/Arp.qml" line="57"/>
         <source>Loading ARP cache</source>
-        <translation>Läser in ARP-cache</translation>
+        <translation>加载 ARP 缓存</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="82"/>
         <source>Clear all ARP entries</source>
-        <translation>Rensar alla ARP-poster</translation>
+        <translation>清除全部 ARP 入口</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="83"/>
         <source>Clearing</source>
-        <translation>Rensar</translation>
+        <translation>正在清清除</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="89"/>
         <source>Refresh</source>
-        <translation>Uppdatera</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="104"/>
         <source>ARP cache</source>
-        <translation>ARP-cache</translation>
+        <translation>ARP 缓存</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="142"/>
         <source>Removing </source>
-        <translation>Tar bort </translation>
+        <translation>正在移除</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="171"/>
         <source>Copy IP address to clipboard</source>
-        <translation>Kopiera IP-adress till urklipp</translation>
+        <translation>复制 IP 地址到剪切板</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="177"/>
         <source>Copy MAC address to clipboard</source>
-        <translation>Kopiera MAC-adress till urklipp</translation>
+        <translation>复制 MAC 地址到剪切板</translation>
     </message>
     <message>
         <location filename="../qml/pages/Arp.qml" line="183"/>
         <source>Remove ARP entry</source>
-        <translation>Ta bort ARP-post</translation>
+        <translation>移除 ARP 入口</translation>
     </message>
 </context>
 <context>
@@ -87,27 +87,27 @@
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="53"/>
         <source>Name</source>
-        <translation>Namn</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="73"/>
         <source>Identifier</source>
-        <translation>ID</translation>
+        <translation>标识符</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="93"/>
         <source>Type</source>
-        <translation>Typ</translation>
+        <translation>类型</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="113"/>
         <source>State</source>
-        <translation>Status</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="194"/>
         <source>IPv4 Configuration</source>
-        <translation>IPv4-konfiguration</translation>
+        <translation>IPv4 配置</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="215"/>
@@ -117,74 +117,74 @@
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="235"/>
         <source>IPv6 Configuration</source>
-        <translation>IPv6-konfiguration</translation>
+        <translation>IPv6 配置</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="255"/>
         <source>Auto Connect</source>
-        <translation>Auto-anslutning</translation>
+        <translation>自动连接</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="295"/>
         <source>Saved</source>
-        <translation>Sparad</translation>
+        <translation>已保存</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="303"/>
         <location filename="../qml/pages/ConnmanInfo.qml" line="343"/>
         <source>false</source>
-        <translation>falskt</translation>
+        <translation>假的</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="303"/>
         <location filename="../qml/pages/ConnmanInfo.qml" line="343"/>
         <source>true</source>
-        <translation>sant</translation>
+        <translation>真的</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="356"/>
         <source>Security</source>
-        <translation>Säkerhet</translation>
+        <translation>安全</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="377"/>
         <source>Time servers</source>
-        <translation>Tidsservrar</translation>
+        <translation>时间服务器</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="398"/>
         <source>Name servers</source>
-        <translation>Namnservrar</translation>
+        <translation>名称服务器</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="133"/>
         <source>Strength</source>
-        <translation>Styrka</translation>
+        <translation>加强</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="275"/>
         <source>Ethernet</source>
-        <translation>Ethernet</translation>
+        <translation>以太网&gt;</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="45"/>
         <source>ConnMan connection details</source>
-        <translation>ConnMan anslutningsdetaljer</translation>
+        <translation>ConnMan 连接详情</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="153"/>
         <source>Default Access</source>
-        <translation>Standardåtkomst</translation>
+        <translation>默认接入</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="315"/>
         <source>Favorite</source>
-        <translation>Favorit</translation>
+        <translation>收藏</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="335"/>
         <source>Hidden</source>
-        <translation>Dold</translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanInfo.qml" line="174"/>
@@ -197,22 +197,22 @@
     <message>
         <location filename="../qml/pages/ConnmanNetServices.qml" line="43"/>
         <source>Collecting data...</source>
-        <translation>Samlar in data...</translation>
+        <translation>正在获取数据……</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanNetServices.qml" line="69"/>
         <source>Known ConnMan connections</source>
-        <translation>Kända ConnMan-anslutningar</translation>
+        <translation>已知 ConnMan 连接</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanNetServices.qml" line="112"/>
         <source>Hidden</source>
-        <translation>Dold</translation>
+        <translation>隐藏</translation>
     </message>
     <message>
         <location filename="../qml/pages/ConnmanNetServices.qml" line="130"/>
         <source>Show more info</source>
-        <translation>Visa mer information</translation>
+        <translation>显示更多信息</translation>
     </message>
 </context>
 <context>
@@ -220,22 +220,22 @@
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="36"/>
         <source>Network name</source>
-        <translation>Nätverksnamn</translation>
+        <translation>网络名称</translation>
     </message>
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="47"/>
         <source>Subnet Mask</source>
-        <translation>Subnätmask</translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="58"/>
         <source>IP address</source>
-        <translation>IP-adress</translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <location filename="../qml/cover/CoverPage.qml" line="25"/>
         <source>Network type</source>
-        <translation>Nätverkstyp</translation>
+        <translation>网络类型</translation>
     </message>
 </context>
 <context>
@@ -243,62 +243,62 @@
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="58"/>
         <source>Retrieving device info</source>
-        <translation>Hämtar enhetsinformation</translation>
+        <translation>检测设备信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="89"/>
         <source>Device info</source>
-        <translation>Enhetsinformation</translation>
+        <translation>设备信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="97"/>
         <source>IP address</source>
-        <translation>IP-adress</translation>
+        <translation>IP地址</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="120"/>
         <source>MAC address</source>
-        <translation>MAC-adress</translation>
+        <translation>MAC 地址</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="143"/>
         <source>Hostname</source>
-        <translation>Värdnamn</translation>
+        <translation>主机名</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="166"/>
         <source>Vendor</source>
-        <translation>Leverantör</translation>
+        <translation>厂商</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="189"/>
         <source>OS Family</source>
-        <translation>OS-familj</translation>
+        <translation>系统家族</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="212"/>
         <source>OS Name</source>
-        <translation>OS-namn</translation>
+        <translation>系统名称</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="235"/>
         <source>Last boot</source>
-        <translation>Senaste start</translation>
+        <translation>上次启动</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="258"/>
         <source>Uptime</source>
-        <translation>Upptid</translation>
+        <translation>运行时长</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="281"/>
         <source>Open TCP ports</source>
-        <translation>Öppna TCP-portar</translation>
+        <translation>打开 TCP 端口</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceInfo.qml" line="291"/>
         <source>None</source>
-        <translation>Ingen</translation>
+        <translation>无</translation>
     </message>
 </context>
 <context>
@@ -306,27 +306,27 @@
     <message>
         <location filename="../qml/pages/DeviceList.qml" line="49"/>
         <source>Scanning for devices</source>
-        <translation>Söker efter enheter</translation>
+        <translation>正在扫描设备</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceList.qml" line="71"/>
         <source>Refresh</source>
-        <translation>Uppdatera</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceList.qml" line="88"/>
         <source>Devices</source>
-        <translation>Enheter</translation>
+        <translation>设备</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceList.qml" line="154"/>
         <source>Show more info</source>
-        <translation>Visa mer information</translation>
+        <translation>显示更多信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/DeviceList.qml" line="163"/>
         <source>Copy IP address to clipboard</source>
-        <translation>Kopiera IP-adress till urklipp</translation>
+        <translation>复制 IP 地址到剪切板</translation>
     </message>
 </context>
 <context>
@@ -334,12 +334,12 @@
     <message>
         <location filename="../qml/pages/DnsPage.qml" line="46"/>
         <source>DNS query</source>
-        <translation>DNS-matchning</translation>
+        <translation>DNS 查询</translation>
     </message>
     <message>
         <location filename="../qml/pages/DnsPage.qml" line="57"/>
         <source>Enter IP or hostname to resolve</source>
-        <translation>Ange IP-adress eller värdnamn att omvandla</translation>
+        <translation>输入要解析的IP或主机名</translation>
     </message>
     <message>
         <location filename="../qml/pages/DnsPage.qml" line="76"/>
@@ -405,32 +405,32 @@
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="64"/>
         <source>Retrieving IP location info</source>
-        <translation>Hämtar platsinformation</translation>
+        <translation>正在检测 IP 地址信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="95"/>
         <source>IP location info</source>
-        <translation>IP-adressens platsinformation</translation>
+        <translation>IP 地址信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="119"/>
         <source>External IP</source>
-        <translation>Extern IP-adress</translation>
+        <translation>外部 IP</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="142"/>
         <source>Timezone</source>
-        <translation>Tidszon</translation>
+        <translation>时区</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="165"/>
         <source>Country</source>
-        <translation>Land</translation>
+        <translation>国家</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="188"/>
         <source>City</source>
-        <translation>Stad</translation>
+        <translation>城市</translation>
     </message>
     <message>
         <location filename="../qml/pages/LocationInfo.qml" line="211"/>
@@ -448,74 +448,74 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="64"/>
         <source>About</source>
-        <translation>Om</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="68"/>
         <source>Refresh</source>
-        <translation>Uppdatera</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="103"/>
         <source>External IP info</source>
-        <translation>Extern IP-information</translation>
+        <translation>外部IP信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="108"/>
         <location filename="../qml/pages/MainPage.qml" line="116"/>
         <source>Devices in current network</source>
-        <translation>Enheter i aktuellt nätverk</translation>
+        <translation>设备当前网络</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="125"/>
         <source>ARP cache table</source>
-        <translation>ARP cache-tabell</translation>
+        <translation>ARP缓存表</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="130"/>
         <location filename="../qml/pages/MainPage.qml" line="138"/>
         <source>Network port connections</source>
-        <translation>Nätverkets portanslutningar</translation>
+        <translation>网络端口连接</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="145"/>
         <source>ConnMan connections</source>
-        <translation>ConnMan-anslutningar</translation>
+        <translation>ConnMan 连接</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="155"/>
         <source>Network type</source>
-        <translation>Nätverkstyp</translation>
+        <translation>网络类型</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="176"/>
         <source>Network name</source>
-        <translation>Nätverksnamn</translation>
+        <translation>网络名称</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="198"/>
         <source>Network device</source>
-        <translation>Nätverksenhet</translation>
+        <translation>设备信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="220"/>
         <source>Subnet Mask</source>
-        <translation>Subnätmask</translation>
+        <translation>子网掩码</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="242"/>
         <source>Gateway</source>
-        <translation>Gateway</translation>
+        <translation>网关</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="264"/>
         <source>Broadcast</source>
-        <translation>Sändning</translation>
+        <translation>宽带</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="286"/>
         <source>Domain</source>
-        <translation>Domän</translation>
+        <translation>域</translation>
     </message>
     <message>
         <location filename="../qml/pages/MainPage.qml" line="308"/>
@@ -530,7 +530,7 @@
     <message>
         <location filename="../qml/pages/MainPage.qml" line="352"/>
         <source>IP address</source>
-        <translation>IP-adress</translation>
+        <translation>IP 地址</translation>
     </message>
 </context>
 <context>
@@ -538,27 +538,27 @@
     <message>
         <location filename="../qml/pages/Netstat.qml" line="60"/>
         <source>Collecting data...</source>
-        <translation>Samlar in data...</translation>
+        <translation>正在获取数据……</translation>
     </message>
     <message>
         <location filename="../qml/pages/Netstat.qml" line="111"/>
         <source>Refresh</source>
-        <translation>Uppdatera</translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <location filename="../qml/pages/Netstat.qml" line="128"/>
         <source>Local connections</source>
-        <translation>Lokala anslutningar</translation>
+        <translation>本地连接</translation>
     </message>
     <message>
         <location filename="../qml/pages/Netstat.qml" line="185"/>
         <source>Show more info</source>
-        <translation>Visa mer information</translation>
+        <translation>显示更多信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/Netstat.qml" line="202"/>
         <source>Kill process</source>
-        <translation>Döda process</translation>
+        <translation>杀进程</translation>
     </message>
 </context>
 <context>
@@ -566,52 +566,52 @@
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="37"/>
         <source>Connection info</source>
-        <translation>Anslutningsinformation</translation>
+        <translation>连接信息</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="45"/>
         <source>Proto</source>
-        <translation>Protokoll</translation>
+        <translation>Proto</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="68"/>
         <source>User</source>
-        <translation>Användare</translation>
+        <translation>用户</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="91"/>
         <source>Program name</source>
-        <translation>Programnamn</translation>
+        <translation>进程名称</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="114"/>
         <source>Process ID</source>
-        <translation>Process-ID</translation>
+        <translation>进程 ID</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="135"/>
         <source>Local address</source>
-        <translation>Lokal adress</translation>
+        <translation>本地地址</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="158"/>
         <source>Local port</source>
-        <translation>Lokal port</translation>
+        <translation>本地端口</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="181"/>
         <source>Foreign address</source>
-        <translation>Fjärradress</translation>
+        <translation>外部地址</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="204"/>
         <source>Foreign port</source>
-        <translation>Fjärrport</translation>
+        <translation>外部端口</translation>
     </message>
     <message>
         <location filename="../qml/pages/NetstatInfo.qml" line="227"/>
         <source>State</source>
-        <translation>Status</translation>
+        <translation>状态</translation>
     </message>
 </context>
 <context>
@@ -619,12 +619,12 @@
     <message>
         <location filename="../qml/pages/PingPage.qml" line="50"/>
         <source>ping</source>
-        <translation>ping</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/PingPage.qml" line="71"/>
         <source>Enter IP or hostname for ping</source>
-        <translation>Ange IP eller värnamn att pinga</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -632,27 +632,27 @@
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="28"/>
         <source>About</source>
-        <translation>Om</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="47"/>
         <source>Tools</source>
-        <translation>Verktyg</translation>
+        <translation>工具</translation>
     </message>
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="52"/>
         <source>DNS resolving</source>
-        <translation>DNS-uppslagning</translation>
+        <translation>DNS 查询</translation>
     </message>
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="57"/>
         <source>Traceroute</source>
-        <translation>Traceroute</translation>
+        <translation>路由追踪</translation>
     </message>
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="63"/>
         <source>Ping</source>
-        <translation>Pinga</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../qml/pages/ToolPage.qml" line="79"/>
@@ -670,12 +670,12 @@
     <message>
         <location filename="../qml/pages/TraceroutePage.qml" line="50"/>
         <source>Traceroute</source>
-        <translation>Traceroute</translation>
+        <translation>路由追踪</translation>
     </message>
     <message>
         <location filename="../qml/pages/TraceroutePage.qml" line="71"/>
         <source>Enter IP or hostname for traceroute</source>
-        <translation>Ange IP eller värdnamn för traceroute</translation>
+        <translation>输入 IP 地址或主机名以进行路由追踪</translation>
     </message>
 </context>
 </TS>
